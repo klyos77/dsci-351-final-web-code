@@ -1,0 +1,71 @@
+h1 {
+	margin: 0px;
+	padding-top: 260px;
+
+}
+
+body{
+	margin: 0px;
+	background-color: #792525;
+}
+
+#bodyContent{
+	background-color: #5B3232;
+	color: #FFF;
+}
+
+#side{
+	background-color: #981C1C;
+	color: #FFF;
+}
+
+
+
+#header{
+	background-image: url('img/dota2Header.jpg');
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+	color: #FFF;
+	text-align: center;
+	line-height: 300px;
+	text-shadow: 0px 0px 10px #000;
+
+}
+
+#abilities{
+	padding-top: 50px;
+}
+
+.profilePic{
+	width: 150px;
+	height: auto;
+}
+
+.pic{
+	width: 100px;
+	height: auto;
+}
+
+
+.rightPic{
+			width: 85%;
+			height: auto;
+			
+		
+		}
+
+
+
+
+
+
+
+#footer{
+	background-color: #1E0303;
+	color: whitesmoke;
+	height: 50px;
+	line-height: 25px;
+	text-align: center;
+	width: 100%;
+}
